@@ -26,4 +26,4 @@ It requires 3 essential key in the json:
   </li>
 </ul>
 
-<b>Note: </b> this creates the databases with every special options but only checks for the exist of them, this means the program wont check the settings! (at the current version)
+<b>Note: </b> this creates the databases with every special option but only checks for the exist of them, this means the program wont check the settings! (at the current version)
